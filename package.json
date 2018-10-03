@@ -1,0 +1,23 @@
+{
+  "name": "mr-english-site",
+  "version": "1.0.0",
+  "description": "Website for Mr. English Institute. Provides services for students and teachers to address grading, assignments, assessments, and a variety of other features.",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrwmacintire/mr-english-site.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "John MacIntire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrwmacintire/mr-english-site/issues"
+  },
+  "homepage": "https://github.com/jrwmacintire/mr-english-site#readme"
+}
